@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![stats](https://github-readme-stats-sand-xi.vercel.app/api?username=brunoaqu&hide=issues&show_icons=true)
-<br>
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaqu&layout=compact)
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="Bruno Aquino's Github Stats" src="https://github-readme-stats-sand-xi.vercel.app/api?username=brunoaqu&hide=issues&show_icons=true">
+</details>
