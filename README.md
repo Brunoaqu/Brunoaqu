@@ -1,4 +1,4 @@
-## Greetings ✌️
+### Greetings ✌️
 
 <!--
 **Brunoaqu/Brunoaqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=BrunoAqu&&show_icons=true&title_color=070400&icon_color=7F34B5&text_color=7F34B5&bg_color=FFFFFF)
 <br>
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoaqu&theme=light&hide_langs_below=1&title_color=070400)
+![languages-used](https://github-readme-stats.vercel.app/api/top-langs?username=Brunoaqu&show_icons=true&locale=en&layout=compact&title_color=070400)
