@@ -14,6 +14,7 @@
 <br />
 
 
+[![Spotify](https://novatorem-brunoaqu.vercel.app)](https://open.spotify.com/user/brunoaqu)
 
 <details>
   <summary>Github Stats</summary>
