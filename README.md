@@ -22,5 +22,4 @@
 <details>
   <summary>Github Stats</summary>
   <img align="left" alt="Bruno Aquino's Github Stats" src="https://github-readme-stats-sand-xi.vercel.app/api?username=brunoaqu&hide=issues&show_icons=true">
-  <img align="left" alt="Bruno Aquino's Github Stats" src="https://github-readme-stats-sand-xi.vercel.app/api/top-langs/?username=brunoaqu&layout=compact">
 </details>
