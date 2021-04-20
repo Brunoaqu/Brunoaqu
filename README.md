@@ -13,8 +13,7 @@
 <br />
 <br />
 
-
-[![Spotify](https://novatorem-brunoaqu.vercel.app)](https://open.spotify.com/user/brunoaqu)
+[![Top Langs](https://github-readme-stats-sand-xi.vercel.app/api/top-langs/?username=brunoaqu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>Github Stats</summary>
