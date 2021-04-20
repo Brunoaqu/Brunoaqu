@@ -15,6 +15,7 @@ I'm self-taught programmer, currently studying back-end development and looking 
 
 <br>
 <br>
+<br>
 
 <details>
   <summary>Recent GitHub Activity</summary>
