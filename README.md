@@ -28,5 +28,6 @@ I'm self-taught programmer, currently studying backend development and looking f
 <br>
 <br>
 
-<img align="left" alt="Bruno Aquino's Github Stats" src="https://github-readme-stats-sand-xi.vercel.app/api?username=brunoaqu&hide=issues&show_icons=true">
+![](https://github.com/Brunoaqu/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Brunoaqu/github-stats/blob/master/generated/languages.svg)
 
