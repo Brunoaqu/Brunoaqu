@@ -1,11 +1,11 @@
-### Hello there, I'm Bruno Aquino 👋
+## 👋 Hello there, I'm Bruno Aquino 
 I'm self-taught programmer, currently studying backend development and looking for new opportunities. 
 
-### Connect with me:
+## 📫 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-BrunoAquino-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoaqu/) [![Twitter Badge](https://img.shields.io/badge/-@brunoaquino__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoaquino__)](https://twitter.com/brunoaquino__) 
 [![Mail Badge](https://img.shields.io/badge/-bruno.gl.aquino-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bruno.gl.aquino@gmail.com)
 
-### Languages and Tools:
+## ⚡ Technologies:
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" alt="Nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
