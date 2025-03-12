@@ -1,5 +1,4 @@
-## 👋 Hello there, I'm Bruno Aquino 
-I'm self-taught programmer, currently studying backend development and looking for new opportunities. 
+## 👋 Hello there, I'm Bruno Aquino  
 
 ## 📫 Connect with me:
 <a align="left" alt="LinkedIn" href="https://www.linkedin.com/in/brunoaqu/">![Linkedin Badge](https://img.shields.io/badge/-brunoaqu-c0392b?style=social&logo=linkedin)</a>
